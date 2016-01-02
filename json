@@ -1,0 +1,28 @@
+{"animal": [
+
+ {"name":"Cat","ar_name":"قطة", "image":"http://imageshack.com/a/img910/5096/rMzGCf.jpg"} ,
+ {"name":"Tiger","ar_name":"نمر" ,"image":"http://imageshack.com/a/img905/5545/PdNXRM.jpg"} ,
+ {"name":"Penguin","ar_name":"بطريق","image":"http://imageshack.com/a/img911/4746/zSJyHT.jpg"} ,
+ {"name":"Duck","ar_name":"بطة","image":"http://imageshack.com/a/img905/4755/HIrHpr.jpg"} ,
+ {"name":"Squirrel","ar_name":"سنجاب","image":"http://imageshack.com/a/img910/7386/jeCKrI.jpg"} ,
+ {"name":"Sealdog","ar_name":"فقمة","image":"http://imageshack.com/a/img908/1804/6nBvpV.jpg"} ,
+ {"name":"Fish","ar_name":"سمكة","image":"http://imageshack.com/a/img633/4997/NmmOog.jpg"} ,
+ {"name":"Leopard","ar_name":"فهد","image":"http://imageshack.com/a/img903/589/ARAI8J.jpg"} ,
+ {"name":"Rabbit","ar_name":"أرنب","image":"http://imageshack.com/a/img907/9686/RNO8ns.jpg"} ,
+ {"name":"Camel","ar_name":"جمل","image":"http://imageshack.com/a/img905/2323/FLgNBZ.jpg"} ,
+ {"name":"Giraffe","ar_name":"زرافة","image":"http://imageshack.com/a/img903/5879/9PeSP6.jpg"} ,
+ {"name":"Sheep","ar_name":"خروف","image":"http://imageshack.com/a/img911/9313/OAKJ4f.jpg"} ,
+ {"name":"Cow","ar_name":"بقرة","image":"http://imageshack.com/a/img633/3843/eq0wr3.jpg"} ,
+ {"name":"Monkey","ar_name":"قرد","image":"http://imageshack.com/a/img905/6659/07QIdP.jpg"} ,
+ {"name":"Frog","ar_name":"ضفدع","image":"http://imageshack.com/a/img911/1498/IdnvFh.jpg"} ,
+ {"name":"Goat","ar_name":"تيس","image":"http://imageshack.com/a/img633/9459/C2vBRY.jpg"} ,
+ {"name":"Owl","ar_name":"بوم","image":"http://imageshack.com/a/img905/4127/edPMNC.jpg"} ,
+ {"name":"Eagle","ar_name":"نسر","image":"http://imageshack.com/a/img911/7692/Eux88F.jpg"} ,
+ {"name":"Wolf","ar_name":"ذئب","image":"http://imageshack.com/a/img903/5820/FAnmpt.jpg"} ,
+ {"name":"Bear","ar_name":"دب","image":"http://imageshack.com/a/img908/3426/YJa4jP.jpg"} ,
+ {"name":"Horse","ar_name":"حصان","image":"http://imageshack.com/a/img903/4849/4qMg3u.jpg"} ,
+ {"name":"Snake","ar_name":"ثعبان","image":"http://imageshack.com/a/img905/8472/dx2v7a.jpg"}
+ 
+] 
+
+}
